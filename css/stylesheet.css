@@ -33,8 +33,7 @@ nav > ul {
 
 .footer {
     position: fixed;
-    background-color: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(10px);
+    background-color: #222222;
     color: #ffffff;
     text-align: center;
     bottom: 0;
